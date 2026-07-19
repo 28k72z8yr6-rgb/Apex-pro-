@@ -1,0 +1,1 @@
+const imgs=['work1.jpg','work2.jpg','work3.jpg','work4.jpg'];let i=0;setInterval(()=>{i=(i+1)%imgs.length;document.querySelector('.hero').style.backgroundImage=`url(${imgs[i]})`;},4000);
