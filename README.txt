@@ -1,1 +1,0 @@
-Copy your Logo.png and work1.jpg-work6.jpg into this folder before uploading to GitHub Pages or Netlify.
